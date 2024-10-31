@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="recaptcha_js_alert_settings">
+			<key name="message"/>
+		</key>
+	</admin-texts>
+</wpml-config>
